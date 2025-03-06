@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0D007-B1B1-4DDF-85C4-288CB4982F7E}|school\\Office.csproj|c:\\rivkas desktop\\c#_rivka_and_elisheva\\rivka\\c# backup\\school\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0D007-B1B1-4DDF-85C4-288CB4982F7E}|school\\Office.csproj|solutionrelative:school\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0D007-B1B1-4DDF-85C4-288CB4982F7E}|school\\Office.csproj|c:\\rivkas desktop\\c#_rivka_and_elisheva\\rivka\\c# backup\\school\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0D007-B1B1-4DDF-85C4-288CB4982F7E}|school\\Office.csproj|solutionrelative:school\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0D007-B1B1-4DDF-85C4-288CB4982F7E}|school\\Office.csproj|c:\\rivkas desktop\\c#_rivka_and_elisheva\\rivka\\c# backup\\school\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0D007-B1B1-4DDF-85C4-288CB4982F7E}|school\\Office.csproj|solutionrelative:school\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0D007-B1B1-4DDF-85C4-288CB4982F7E}|school\\Office.csproj|c:\\rivkas desktop\\c#_rivka_and_elisheva\\rivka\\c# backup\\school\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0D007-B1B1-4DDF-85C4-288CB4982F7E}|school\\Office.csproj|solutionrelative:school\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 185,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "school\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "school\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:32:24.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "school\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Entities\\Appointment.cs",
+              "RelativeToolTip": "school\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:32:16.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "school\\Entities\\Client.cs",
+              "ToolTip": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Entities\\Client.cs",
+              "RelativeToolTip": "school\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:56:25.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "school\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "school\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:57:06.177Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

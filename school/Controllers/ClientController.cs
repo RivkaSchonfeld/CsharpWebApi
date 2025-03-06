@@ -1,4 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.OpenApi.Extensions;
+using school.Entity;
+using System.Collections.Generic;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,36 +11,66 @@ namespace school.Controllers
     [ApiController]
     public class ClientController : ControllerBase
     {
+
+        static List<Client> ClientList = new List<Client>() {
+
+
+        new Client("1","Rivka","Beit Shemesh", "0987654", new DateTime(07/03/2025),"hjkl@gmail.com"),
+        new Client("2","Elisheva","Beitar", "257468",new DateTime(07/03/2025),"shf@gmail.com"),
+        new Client("3","Hadassa","Beit Habracha", "3876", new DateTime(07/03/2025),"jhg@gmail.com"),
+        new Client("4","Michal","Neve Shemesh", "345677", new DateTime(03/03/2005),"rfv@gmail.com"),
+        new Client("5","Chava","Neve Asher", "24668", new DateTime(06/03/2007),"rfzfgv@gmail.com"),
+        new Client("6","Hodaya","Neve Michael", "2624", new DateTime(03/03/1919),"rzfgzfv@gmail.com"),
+        new Client("7","Chana","America", "25436", new DateTime(03/03/2020),"rffdv@gmail.com"),
+        new Client("8","Shayna","Jerusalem", "33452677", new DateTime(05/03/2023),"afagfh@gmail.com")
+
+        };
         // GET: api/<Client>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public List<Client> GetClients()
         {
-            return new string[] { "value1", "value2" };
+            return ClientList;
         }
 
         // GET api/<Client>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public Client ClientAccordingToId(string id)
         {
-            return "value";
+            return ClientList.FirstOrDefault(u=>u.Id.Equals(id));
         }
 
         // POST api/<Client>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public List<Client> Post([FromBody] Client value)
         {
+            ClientList.Add(new Client(value.Id, value.Name, value.Address, value.Phone, value.DateOfBirth, value.Email));
+            return ClientList;
+           
         }
 
         // PUT api/<Client>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public List<Client> EditClientDetails(int id, [FromBody] Client value)
         {
+            int g = ClientList.FindIndex(p => p.Id.Equals(id+""));
+            if (!(g >= 0 && g < ClientList.Count()))
+                return null;
+            ClientList[g].Name = value.Name;
+            ClientList[g].Address = value.Address;
+            ClientList[g].Email = value.Email;
+            ClientList[g].DateOfBirth = value.DateOfBirth;
+            ClientList[g].Phone = value.Phone;
+            return ClientList;
+
         }
 
         // DELETE api/<Client>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public List<Client> Delete(int id)
         {
+            int g = ClientList.FindIndex(p => p.Id.Equals(id + ""));
+            ClientList.Remove(ClientList[g]);
+            return ClientList;
         }
     }
 }

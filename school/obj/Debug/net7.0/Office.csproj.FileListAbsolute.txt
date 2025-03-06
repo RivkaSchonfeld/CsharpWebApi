@@ -1,0 +1,135 @@
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\appsettings.Development.json
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\appsettings.json
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Office.exe
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Office.deps.json
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Office.runtimeconfig.json
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Office.dll
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Office.pdb
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.csproj.AssemblyReference.cache
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.GeneratedMSBuildEditorConfig.editorconfig
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.AssemblyInfoInputs.cache
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.AssemblyInfo.cs
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.csproj.CoreCompileInputs.cache
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.MvcApplicationPartsAssemblyInfo.cs
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.MvcApplicationPartsAssemblyInfo.cache
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.Office.Microsoft.AspNetCore.StaticWebAssets.props
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.build.Office.props
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Office.props
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Office.props
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets.pack.json
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets.build.json
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets.development.json
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\scopedcss\bundle\Office.styles.css
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.csproj.CopyComplete
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.dll
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\refint\Office.dll
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.pdb
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.genruntimeconfig.cache
+M:\PH\kt-14\tichnut\Rivka Schonfeld\c#\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\ref\Office.dll
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\appsettings.Development.json
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\appsettings.json
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Office.exe
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Office.deps.json
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Office.runtimeconfig.json
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Office.dll
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Office.pdb
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\hw web api dalet adar\school\CsharpWebApi\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.csproj.AssemblyReference.cache
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.GeneratedMSBuildEditorConfig.editorconfig
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.AssemblyInfoInputs.cache
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.AssemblyInfo.cs
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.csproj.CoreCompileInputs.cache
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.MvcApplicationPartsAssemblyInfo.cs
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.MvcApplicationPartsAssemblyInfo.cache
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.sourcelink.json
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets.build.json
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets.development.json
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.Office.Microsoft.AspNetCore.StaticWebAssets.props
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.build.Office.props
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Office.props
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Office.props
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets.pack.json
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\scopedcss\bundle\Office.styles.css
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.csproj.Up2Date
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.dll
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\refint\Office.dll
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.pdb
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\Office.genruntimeconfig.cache
+H:\hw web api dalet adar\school\CsharpWebApi\school\obj\Debug\net7.0\ref\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\appsettings.Development.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\appsettings.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\Office.exe
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\Office.deps.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\Office.runtimeconfig.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\Office.pdb
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.csproj.AssemblyReference.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.AssemblyInfoInputs.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.AssemblyInfo.cs
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.csproj.CoreCompileInputs.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.MvcApplicationPartsAssemblyInfo.cs
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.MvcApplicationPartsAssemblyInfo.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.sourcelink.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets.build.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets.development.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.Office.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.build.Office.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Office.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Office.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\scopedcss\bundle\Office.styles.css
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.csproj.Up2Date
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\refint\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.pdb
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\Office.genruntimeconfig.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\CsharpWebApi\school\obj\Debug\net7.0\ref\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\appsettings.Development.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\appsettings.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\Office.exe
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\Office.deps.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\Office.runtimeconfig.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\Office.pdb
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.csproj.AssemblyReference.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.AssemblyInfoInputs.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.AssemblyInfo.cs
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.csproj.CoreCompileInputs.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.MvcApplicationPartsAssemblyInfo.cs
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.MvcApplicationPartsAssemblyInfo.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.sourcelink.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\staticwebassets.build.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\staticwebassets.development.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\staticwebassets\msbuild.Office.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\staticwebassets\msbuild.build.Office.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Office.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Office.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\scopedcss\bundle\Office.styles.css
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.csproj.Up2Date
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\refint\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.pdb
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.genruntimeconfig.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\ref\Office.dll
