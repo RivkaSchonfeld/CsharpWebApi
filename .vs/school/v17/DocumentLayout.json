@@ -25,7 +25,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 185,
+          "DockedHeight": 94,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "school\\Controllers\\AppointmentController.cs",
               "ToolTip": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Controllers\\AppointmentController.cs",
               "RelativeToolTip": "school\\Controllers\\AppointmentController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T20:32:24.605Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "school\\Entities\\Appointment.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:32:16.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:32:16.154Z"
             },
             {
               "$type": "Document",
@@ -81,7 +80,7 @@
           ]
         },
         {
-          "DockedHeight": 171,
+          "DockedHeight": 262,
           "SelectedChildIndex": -1,
           "Children": [
             {
