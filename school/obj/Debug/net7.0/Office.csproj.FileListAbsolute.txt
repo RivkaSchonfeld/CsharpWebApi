@@ -133,3 +133,37 @@ C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\
 C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.pdb
 C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\Office.genruntimeconfig.cache
 C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup\school\obj\Debug\net7.0\ref\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\appsettings.Development.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\appsettings.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\Office.exe
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\Office.deps.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\Office.runtimeconfig.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\Office.pdb
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.csproj.AssemblyReference.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.AssemblyInfoInputs.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.AssemblyInfo.cs
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.csproj.CoreCompileInputs.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.MvcApplicationPartsAssemblyInfo.cs
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.MvcApplicationPartsAssemblyInfo.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.sourcelink.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\staticwebassets.build.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\staticwebassets.development.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\staticwebassets\msbuild.Office.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\staticwebassets\msbuild.build.Office.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Office.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Office.props
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\scopedcss\bundle\Office.styles.css
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.csproj.Up2Date
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\refint\Office.dll
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.pdb
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\Office.genruntimeconfig.cache
+C:\Rivkas desktop\c#_Rivka_and_Elisheva\Rivka\c# backup actually the good one\school\obj\Debug\net7.0\ref\Office.dll

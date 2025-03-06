@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Office.csproj",
+      "projectUniqueName": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup actually the good one\\school\\Office.csproj",
       "projectName": "Office",
-      "projectPath": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\Office.csproj",
+      "projectPath": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup actually the good one\\school\\Office.csproj",
       "packagesPath": "C:\\Users\\rivka\\.nuget\\packages\\",
-      "outputPath": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup\\school\\obj\\",
+      "outputPath": "C:\\Rivkas desktop\\c#_Rivka_and_Elisheva\\Rivka\\c# backup actually the good one\\school\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

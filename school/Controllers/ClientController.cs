@@ -34,9 +34,25 @@ namespace school.Controllers
 
         // GET api/<Client>/5
         [HttpGet("{id}")]
-        public Client ClientAccordingToId(string id)
+        public IActionResult ClientAccordingToId(string id)
         {
-            return ClientList.FirstOrDefault(u=>u.Id.Equals(id));
+            try
+            {
+                Client c = ClientList.FirstOrDefault(u => u.Id.Equals(id));
+                return Ok(c);
+            }
+            catch (Exception ex)
+            {
+                return NotFound("the Id is not valid");//returns 404
+            }
+        }
+        // GET api/<Client>/find
+
+        [HttpGet("find")]
+        public List<Client> Find(string query)
+        {
+            Console.WriteLine(query);
+            return null;
         }
 
         // POST api/<Client>
@@ -45,14 +61,44 @@ namespace school.Controllers
         {
             ClientList.Add(new Client(value.Id, value.Name, value.Address, value.Phone, value.DateOfBirth, value.Email));
             return ClientList;
+
+        }
+
+        [HttpPost("createDataSave/{path}")]
+
+        public IActionResult Post(string path)
+        {
            
+            if (!path.Contains(".txt"))
+                return BadRequest("You should provide a txt file");
+
+            using (StreamWriter writer = new StreamWriter(path))
+            {
+                foreach (Client c in ClientList)
+                {
+                    writer.WriteLine("Client " + c.Id);
+                    writer.WriteLine("  " + c.Name);
+                    writer.WriteLine("  " + c.Address);
+                    writer.WriteLine("  " + c.DateOfBirth);
+                    writer.WriteLine("  " + c.Email);
+
+                }
+
+            }
+            return Ok("succeeded");
+
+            //catch (Exception ex)
+            //{
+            //    return NotFound(ex);
+            //    //return BadRequest(ex);//this sends a status of 500
+            //}
         }
 
         // PUT api/<Client>/5
         [HttpPut("{id}")]
         public List<Client> EditClientDetails(int id, [FromBody] Client value)
         {
-            int g = ClientList.FindIndex(p => p.Id.Equals(id+""));
+            int g = ClientList.FindIndex(p => p.Id.Equals(id + ""));
             if (!(g >= 0 && g < ClientList.Count()))
                 return null;
             ClientList[g].Name = value.Name;
